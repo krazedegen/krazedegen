@@ -2,73 +2,51 @@
 
 <img src="./banner.svg" alt="krazedegen" width="100%"/>
 
-**Tactician · PenTester · Builder**
+**Builder · security · product**
 
-Autonomous systems, Android, DeFi tooling, and full-stack execution — with a bias toward shipping.
+I design and ship software — mobile apps, bots, dashboards, and on-chain tooling.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-krazedegen-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D0D0D)](https://github.com/krazedegen)
-[![X](https://img.shields.io/badge/X-@krazedegen-00FF41?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=0D0D0D)](https://x.com/krazedegen)
-[![Hireable](https://img.shields.io/badge/STATUS-HIREABLE-00FF41?style=for-the-badge&labelColor=0D0D0D)](https://github.com/krazedegen)
+[![GitHub](https://img.shields.io/badge/GitHub-krazedegen-00FF41?style=flat-square&logo=github&logoColor=00FF41&labelColor=0D0D0D)](https://github.com/krazedegen)
+[![X](https://img.shields.io/badge/X-@krazedegen-00FF41?style=flat-square&logo=x&logoColor=00FF41&labelColor=0D0D0D)](https://x.com/krazedegen)
 
 </div>
 
 ---
 
-## Operative profile
+## About
 
-```text
-HANDLE     : krazedegen
-ROLE       : tactician / pentester / builder
-STACK      : Python · Kotlin/Android · Node · Vue/TS · XRPL/Xahau
-SPECIALTY  : on-chain autonomous systems · DeFi execution · edge devices
-MODE       : direct execution > bureaucracy
-```
+I work across the stack with a bias toward useful software that actually ships: Android products, automation, trading tooling, and edge/device projects.
+
+**Focus areas:** Python · Kotlin / Android · Node · Vue / TypeScript · Sonic · Raspberry Pi
 
 ---
 
 <div align="center">
-<img src="./section-work.svg" alt="Work" width="100%"/>
+<img src="./section-work.svg" alt="Selected work" width="100%"/>
 </div>
 
-### Featured builds
-
-| Project | What it is | Stack |
+| Project | Summary | Stack |
 |:--|:--|:--|
-| **[obd-dashboard](https://github.com/krazedegen/obd-dashboard)** | Real-time OBD2 web dashboard for Pi (SVG gauges, Ford PIDs, kiosk mode) | Python · Flask · Raspberry Pi |
-| **[LetsGetIt](https://github.com/krazedegen/LetsGetIt)** | Android health app — goals, AI coaching chat, premium flows | Kotlin · Jetpack · AI |
-| **[XAHBot](https://github.com/krazedegen/XAHBot)** | Live Telegram bot for Xahau ledger (fees, accounts, txs via WS) | Node · Telegraf · WebSocket |
-| **[routecreate](https://github.com/krazedegen/routecreate)** | Arbitrage pathfinding across fragmented DEX liquidity | Python · multi-DEX |
-| **[Compile-Codebase](https://github.com/krazedegen/Compile-Codebase)** | Recursively pack a codebase into one shareable text file for AI/collab | Python · CLI |
-| **[OpenBible](https://github.com/krazedegen/OpenBible)** | Bible study web app — search, maps, AI assistant | Vue 3 · TypeScript · Tailwind |
+| **[obd-dashboard](https://github.com/krazedegen/obd-dashboard)** | Live OBD2 dashboard for cars on a Pi (gauges, Ford PIDs, kiosk mode) | Python · Flask · Pi |
+| **[LetsGetIt](https://github.com/krazedegen/LetsGetIt)** | Android health app with goals, coaching chat, and premium flows | Kotlin · Jetpack |
+| **[XAHBot](https://github.com/krazedegen/XAHBot)** | Telegram bot for live ledger data (fees, accounts, transactions) | Node · WebSocket |
+| **[routecreate](https://github.com/krazedegen/routecreate)** | Pathfinding for arbitrage across fragmented DEX liquidity | Python |
+| **[Compile-Codebase](https://github.com/krazedegen/Compile-Codebase)** | Pack a whole codebase into one clean text file for sharing / AI | Python · CLI |
+| **[OpenBible](https://github.com/krazedegen/OpenBible)** | Bible study web app — search, maps, assistant | Vue 3 · TypeScript |
 
-Also shipping: multi-tenant locksmith SaaS (`LocksmithAssist`), trading tooling, bots, and infra experiments under this handle.
+Also: multi-tenant SaaS (`LocksmithAssist`), trading tools, and smaller experiments under this handle.
 
 ---
-
-## Stack signals
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kotlin-0D0D0D?style=for-the-badge&logo=kotlin&logoColor=00FF41" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Android-0D0D0D?style=for-the-badge&logo=android&logoColor=00FF41" alt="Android"/>
-  <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" alt="Node"/>
-  <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=00FF41" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Vue.js-0D0D0D?style=for-the-badge&logo=vuedotjs&logoColor=00FF41" alt="Vue"/>
-  <img src="https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=00FF41" alt="Next"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-0D0D0D?style=for-the-badge&logo=raspberrypi&logoColor=00FF41" alt="Pi"/>
-  <img src="https://img.shields.io/badge/XRPL-0D0D0D?style=for-the-badge&logo=xrp&logoColor=00FF41" alt="XRPL"/>
+  <img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=00FF41" alt="Python"/>
+  <img src="https://img.shields.io/badge/Kotlin-0D0D0D?style=flat-square&logo=kotlin&logoColor=00FF41" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Android-0D0D0D?style=flat-square&logo=android&logoColor=00FF41" alt="Android"/>
+  <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=nodedotjs&logoColor=00FF41" alt="Node"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=00FF41" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-0D0D0D?style=flat-square&logo=vuedotjs&logoColor=00FF41" alt="Vue"/>
+  <img src="https://img.shields.io/badge/Sonic-0D0D0D?style=flat-square&logoColor=00FF41" alt="Sonic"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-0D0D0D?style=flat-square&logo=raspberrypi&logoColor=00FF41" alt="Pi"/>
 </p>
-
----
-
-<div align="center">
-
-`results > narrative` · `ship > talk` · `truth > compromise`
-
-<br/>
-
-<sub>dark terminal aesthetic · no doxx · code speaks</sub>
-
-</div>
